@@ -1,5 +1,5 @@
 # python3
-
+# Vladislavs Fedins 221RDB416
 import sys
 import threading
 import numpy
